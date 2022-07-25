@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/RafaelErnesto/bank-service/compare/v1.0.0...v2.0.0) (2022-07-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* Breaking change
+
+### Features
+
+* Breaking change ([89d3abe](https://github.com/RafaelErnesto/bank-service/commit/89d3abecad485e5639c1e9c6d4972322d7ad1edc))
+
 ## 1.0.0 (2022-07-25)
 
 
