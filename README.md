@@ -1,4 +1,4 @@
-# bank-service project
+# Bank Service Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
